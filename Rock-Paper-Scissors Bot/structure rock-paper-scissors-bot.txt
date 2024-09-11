@@ -1,0 +1,9 @@
+rock-paper-scissors-bot/
+├── main.py
+├── rps_bot.py
+├── data/
+│   └── game_history.csv
+├── models/
+│   └── rps_model.h5
+├── requirements.txt
+└── README.md
