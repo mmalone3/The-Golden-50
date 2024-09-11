@@ -1,0 +1,24 @@
+1. Pac-Man Clone
+   - Recreate the classic arcade game using Unity and C#
+   - Implement maze navigation, power pellets, and AI-controlled ghosts
+Plan
+1.	Setup Unity Project:
+o	Create a new 2D project in Unity.
+o	Set up the main scene with a basic maze layout.
+2.	Create Pac-Man:
+o	Create a Pac-Man sprite.
+o	Implement movement controls using arrow keys.
+3.	Create Maze:
+o	Design the maze using Unity's Tilemap system.
+o	Add colliders to the walls to prevent Pac-Man from passing through.
+4.	Implement Power Pellets:
+o	Place power pellets in the maze.
+o	Detect collision between Pac-Man and pellets to "eat" them.
+5.	Create Ghosts:
+o	Create ghost sprites.
+o	Implement basic AI for ghost movement.
+6.	Game Logic:
+o	Implement game over conditions.
+o	Add score tracking.
+
+2. 

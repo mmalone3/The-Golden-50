@@ -1,0 +1,53 @@
+create as much code as you can for skill_tracker/
+│
+├── skill_tracker/
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
+├── skills/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── forms.py
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+│
+├── templates/
+│   └── skills/
+│       ├── base.html
+│       ├── index.html
+│       └── add_skill.html
+│
+├── static/
+│   └── js/
+│       └── chart.js
+│
+└── manage.py
+
+Pac man
+Assets/
+├── Scenes/
+│   └── PacManScene.unity
+├── Scripts/
+│   ├── GameManager.cs
+│   ├── GhostController.cs
+│   ├── PacManController.cs
+│   ├── PowerPellet.cs
+│   └── MazeGenerator.cs
+├── Prefabs/
+│   ├── PacMan.prefab
+│   ├── Ghost.prefab
+│   ├── PowerPellet.prefab
+│   └── Pellet.prefab
+└── Resources/
+    └── MazeData.txt
+
+hangman-game
+├── index.html
+├── styles.css
+└── script.js
